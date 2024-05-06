@@ -1,6 +1,6 @@
 ﻿# Alignment Tool Benchmarking
 
-This project is intended to benchmark the efficiencies of various genome assembly/alignment tools when dealing with variable read qualities/types (Illumina, Nanopore, PacBio). In this project I will attempt to measure the time, memory, and accuracy of each tool when faced with a range of PHRED scores. 
+This project is intended to benchmark the efficiencies of various genome assembly/alignment tools when dealing with variable read qualities/types (Illumina, Oxford Nanopore, PacBio SMRT). In this project I will attempt to measure the time, memory, and accuracy of each tool when faced with a range of PHRED scores. 
 
 
 # Overview
