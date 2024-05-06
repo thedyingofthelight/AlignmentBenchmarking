@@ -5,7 +5,7 @@ This project is intended to benchmark the efficiencies of various genome assembl
 
 # Overview
 
-The datasets used in this project are publicly available at https://www.ncbi.nlm.nih.gov/sra. In this project, I utilized 3 SRA Whole Genome Sequencing datasets for each of the 3 kinds of read types assessed (Illumina, Nanopore, PacBio). The .fastq and output .sam files are ridiculously large so I do not have them on this repo. 
+The datasets used in this project are publicly available at https://www.ncbi.nlm.nih.gov/sra. In this project, I utilized 3 E. Coli SRA Whole Genome Sequencing datasets for each of the 3 kinds of read types assessed (Illumina, Nanopore, PacBio). The .fastq and output .sam files are ridiculously large so I do not have them on this repo. The E. Coli reference genome I used is Assembly ASM584v2, which is strain K-12 susbtrain MG1655 with Accession code SAMN02604091. 
 
 
 **Illumina**
