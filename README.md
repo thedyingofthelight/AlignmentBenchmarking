@@ -24,5 +24,6 @@ The datasets used in this project are publicly available at https://www.ncbi.nlm
 - SRR26413053
 
 
-I first assessed the read qualities for each dataset with FastQC, then created alignments for each with the various tools being tested (BWA & Minimap2). I then used Samtools to assess the error rates (mismatches / bases mapped) and % aligned reads.
+I first assessed the read qualities for each dataset with FastQC, then created alignments for each with the various tools being tested (BWA & Minimap2). I then used Samtools to assess the error rates (mismatches / bases mapped) and % aligned reads. All of the alignment scripts together had a combined runtime 14815.865 seconds, or **4.12 hours** (this figure does not include the runtime of any of the Samtools analysis commands after alignment). 
+
 
