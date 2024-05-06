@@ -24,5 +24,5 @@ The datasets used in this project are publicly available at https://www.ncbi.nlm
 - SRR26413053
 
 
-I first assessed the read qualities for each dataset, then created alignments for each with the various tools being tested. 
+I first assessed the read qualities for each dataset with FastQC, then created alignments for each with the various tools being tested (BWA & Minimap2). I then used Samtools to assess the error rates (mismatches / bases mapped) and % aligned reads.
 
