@@ -30,6 +30,6 @@ You can find each script used in my project under the "Scripts" folder. These ca
 ```
 ./your_script_name.sh
 ```
-I have a lot of directories, so the scripts aren't the easiest to read. Sorry!
+File paths in the scripts are unique to the directory structure of the original project, so it might be a bit confusing to read.
 
 
